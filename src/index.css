@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background-color: #f5f5dc; /* paper-beige */
+  color: #1a1a1a; /* ink-black */
+}
+
+body {
+  margin: 0;
+  font-family: 'Noto Serif SC', 'Times New Roman', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
